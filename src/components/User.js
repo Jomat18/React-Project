@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-//7.6K (gzipped: 3.2K)
+
 export default class User extends Component{
 
     state = {

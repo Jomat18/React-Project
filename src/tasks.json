@@ -2,19 +2,19 @@
     {
         "id" : 1,
         "title" : "task 1",
-        "description": "fdjkfjdskfk",
+        "description": "Study",
         "done" : false
     },
     {
         "id" : 2,
         "title" : "task 2",
-        "description": "fd",
+        "description": "Watch Tv",
         "done" : true
     },
     {
         "id" : 3,
         "title" : "task 3",
-        "description": "fdjkfj",
+        "description": "Read a book",
         "done" : true
     }
 ]
